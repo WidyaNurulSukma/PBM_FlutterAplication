@@ -32,6 +32,7 @@ Aplikasi portal berita mobile yang dibangun dengan Flutter yang memungkinkan pen
 ![image](https://github.com/user-attachments/assets/5a693c4c-d4fa-428f-9e1e-f828c521f819)
 ![image](https://github.com/user-attachments/assets/d66b4add-8a09-4bff-a388-b84abbb4b809)
 ![image](https://github.com/user-attachments/assets/86c5f16d-5d10-4df4-bb84-3f65f69f75f5)
+![image](https://github.com/user-attachments/assets/7034805e-4363-408c-b375-e1844246bf00)
 ![image](https://github.com/user-attachments/assets/08df3b8a-614f-4886-a675-8c2f13a4bbb0)
 
 

@@ -27,6 +27,8 @@ Aplikasi portal berita mobile yang dibangun dengan Flutter yang memungkinkan pen
 - **Manajemen Profil**: Melihat dan mengelola informasi profil pengguna
 
 ## Screenshot
+![image](https://github.com/user-attachments/assets/f0d2cd94-c504-431e-82d5-c0d1a21fd5e5)
+![image](https://github.com/user-attachments/assets/a4371d54-4f7e-435d-ac63-d41372381024)
 ![image](https://github.com/user-attachments/assets/5a693c4c-d4fa-428f-9e1e-f828c521f819)
 ![image](https://github.com/user-attachments/assets/d66b4add-8a09-4bff-a388-b84abbb4b809)
 ![image](https://github.com/user-attachments/assets/86c5f16d-5d10-4df4-bb84-3f65f69f75f5)

@@ -1,4 +1,5 @@
 # Flutter Module Make News Portal
+### Widya Nurul Sukma - 2208107010054
 
 ## Getting Started
 
